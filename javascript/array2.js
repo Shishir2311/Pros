@@ -6,7 +6,7 @@
         
         if (firstLetter === 'j') 
         	{
-          console.log("bye " + names[i]);
+          console.log("Good bye " + names[i]);
         	} 
         else
         	 {
